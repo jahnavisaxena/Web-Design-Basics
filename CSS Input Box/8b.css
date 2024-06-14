@@ -1,0 +1,8 @@
+p{
+    width:200px;
+}
+button, 
+p{
+ display:inline-block;
+ vertical-align:middle;
+}
